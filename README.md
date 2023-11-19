@@ -1,3 +1,3 @@
 # sample-1
-<h1 style="color:red;">hello</h1>
+<h1>hello</h1>
 Now, telling about Readme file, it's a kind of description file for your project where you can mention the important requirements for your project, about the projects, or any other details. These are generally signs of good coding practices, where any new person who likes to work on your project or collaborate with you or use your projects, gets to know everything about your project. It's like a manual book that comes everytime with any electrical appliance you buy. But one more interesting fact abou the the Readme file is that you can also write anything in HTML code too. Like, I have ised h1 tag. And when I commit changes Hello will be saved with the default properties which it gets from h1 tag.
